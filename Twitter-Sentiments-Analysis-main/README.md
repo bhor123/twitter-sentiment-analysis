@@ -28,9 +28,7 @@ You will be prompted to enter the keyword/hashtag you want to analyze and the nu
 
 ## Authors
 
-Rahul Khushwah
+Bhor Sharma
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Rahulk0/Twitter-Sentiments-Analysis/blob/main/LICENSE) file for details
 
